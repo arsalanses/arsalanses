@@ -2,9 +2,8 @@
 
 I'm Arsalan Sefidgar. A software developer and a college student.
 
-<p align="center">
 📫 How to reach me: 
-
+<p align="center">
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=fff)](https://twitter.com/arsalanse) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=fff)](https://Instagram.com/arsalanse) [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=Telegram&logoColor=fff)](https://t.me/arsalanse1) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/arsalanse/) [![Email](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=fff)](mailto:dr.sefidgar@gmail.com)
 </p>
 
