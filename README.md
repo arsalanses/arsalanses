@@ -2,11 +2,10 @@
 
 I'm Arsalan Sefidgar. A software developer and a college student.
 
-<p align="center">
 📫 How to reach me: 
-<p align="center">
-[![Twitter](https://img.shields.io/badge/-Twitter-f1c40f?style=flat-square&logo=Twitter&logoColor=fff)](https://twitter.com/arsalanse) </p><p align="center"> [![Instagram](https://img.shields.io/badge/-Instagram-f1c40f?style=flat-square&logo=Instagram&logoColor=fff)](https://Instagram.com/arsalanse) </p><p align="center"> [![Telegram](https://img.shields.io/badge/-Telegram-f1c40f?style=flat-square&logo=Telegram&logoColor=fff)](https://t.me/arsalanse1) </p><p align="center"> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-f1c40f?style=flat-square&logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/arsalanse/) </p><p align="center"> [![Email](https://img.shields.io/badge/-Gmail-f1c40f?style=flat-square&logo=Gmail&logoColor=fff)](mailto:dr.sefidgar@gmail.com)</p>
-</p>
+
+&ensp;&ensp;&ensp;[![Twitter](https://img.shields.io/badge/-Twitter-f1c40f?style=flat-square&logo=Twitter&logoColor=fff)](https://twitter.com/arsalanse) [![Instagram](https://img.shields.io/badge/-Instagram-f1c40f?style=flat-square&logo=Instagram&logoColor=fff)](https://Instagram.com/arsalanse) [![Telegram](https://img.shields.io/badge/-Telegram-f1c40f?style=flat-square&logo=Telegram&logoColor=fff)](https://t.me/arsalanse1) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-f1c40f?style=flat-square&logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/arsalanse/) [![Email](https://img.shields.io/badge/-Gmail-f1c40f?style=flat-square&logo=Gmail&logoColor=fff)](mailto:dr.sefidgar@gmail.com)
+
 
 🌱 I’m currently learning:
 
