@@ -4,11 +4,11 @@ I'm Arsalan Sefidgar. A software developer and a college student.
 
 🌱 I’m currently learning:
 
-&ensp;&ensp;&ensp;![Django](https://img.shields.io/badge/-Django-007396?style=flat-square&logo=Django&logoColor=fff) ![Flutter](https://img.shields.io/badge/-Flutter-777BB4?style=flat-square&logo=Flutter&logoColor=fff)
+&ensp;&ensp;&ensp;![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=fff) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=fff)
 
 🎉 I’m interested in things related to:
 
-&ensp;&ensp;&ensp;![Python](https://img.shields.io/badge/-Python-FF2D20?style=flat-square&logo=Python&logoColor=fff) ![Django](https://img.shields.io/badge/-Django-6DB33F?style=flat-square&logo=Django&logoColor=fff) ![Flutter](https://img.shields.io/badge/-Flutter-61DAFB?style=flat-square&logo=Flutter&logoColor=000) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
+&ensp;&ensp;&ensp;![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=fff) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=fff) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=fff) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
 
 ⚡ I like to use these  tools:
 
