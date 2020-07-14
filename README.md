@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Arsalan Sefidgar. A indie software developer and a college student.
+I'm Arsalan Sefidgar. A software developer and a college student.
 
 🌱 I’m currently learning:
 
