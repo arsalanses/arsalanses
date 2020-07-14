@@ -8,11 +8,11 @@ I'm Arsalan Sefidgar. A software developer and a college student.
 
 🎉 I’m interested in things related to:
 
-&ensp;&ensp;&ensp;![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=fff) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=Dart&logoColor=fff) ![Open Source](https://img.shields.io/badge/-Open%20Source-3DA639?style=flat-square&logo=Open%20Source%20Initiative&logoColor=fff) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=fff) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=fff) ![MySql](https://img.shields.io/badge/-MySql-4479A1?style=flat-square&logo=MySql&logoColor=fff) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
+&ensp;&ensp;&ensp;![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=fff) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=Dart&logoColor=fff) ![Open Source](https://img.shields.io/badge/-Open%20Source-3DA639?style=flat-square&logo=Open%20Source%20Initiative&logoColor=fff) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=fff) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=fff) ![MySql](https://img.shields.io/badge/-MySql-4479A1?style=flat-square&logo=MySql&logoColor=fff)
 
 ⚡ I like to use these  tools:
 
-&ensp;&ensp;&ensp;![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0175C2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff) ![JetBrains](https://img.shields.io/badge/-JetBrains-000?style=flat-square&logo=JetBrains&logoColor=fff) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=fff)
+&ensp;&ensp;&ensp;![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0175C2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff) ![JetBrains](https://img.shields.io/badge/-JetBrains-000?style=flat-square&logo=JetBrains&logoColor=fff) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=fff) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
 
 📫 How to reach me: 
 
