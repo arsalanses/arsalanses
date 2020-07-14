@@ -2,11 +2,11 @@
 
 I'm Arsalan Sefidgar. A software developer and a college student.
 
-<div id="container">
+<p align="center">
 📫 How to reach me: 
   
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=fff)](https://twitter.com/arsalanse) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=fff)](https://Instagram.com/arsalanse) [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=Telegram&logoColor=fff)](https://t.me/arsalanse1) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/arsalanse/) [![Email](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=fff)](mailto:dr.sefidgar@gmail.com)
-</div>
+[![Twitter](https://img.shields.io/badge/-Twitter-f1c40f?style=flat-square&logo=Twitter&logoColor=fff)](https://twitter.com/arsalanse) [![Instagram](https://img.shields.io/badge/-Instagram-f1c40f?style=flat-square&logo=Instagram&logoColor=fff)](https://Instagram.com/arsalanse) [![Telegram](https://img.shields.io/badge/-Telegram-f1c40f?style=flat-square&logo=Telegram&logoColor=fff)](https://t.me/arsalanse1) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-f1c40f?style=flat-square&logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/arsalanse/) [![Email](https://img.shields.io/badge/-Gmail-f1c40f?style=flat-square&logo=Gmail&logoColor=fff)](mailto:dr.sefidgar@gmail.com)
+</p>
 
 🌱 I’m currently learning:
 
@@ -19,13 +19,3 @@ I'm Arsalan Sefidgar. A software developer and a college student.
 ⚡ I like to use these  tools:
 
 &ensp;&ensp;&ensp;![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-34495e?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff) ![JetBrains](https://img.shields.io/badge/-JetBrains-34495e?style=flat-square&logo=JetBrains&logoColor=fff) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-34495e?style=flat-square&logo=Android%20Studio&logoColor=fff) ![Docker](https://img.shields.io/badge/-Docker-34495e?style=flat-square&logo=Docker&logoColor=fff)
-
-#container {
-    height:100px;
-    line-height:100px;
-}
-
-#container img {
-    vertical-align:middle;
-    max-height:100%;
-}
