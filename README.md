@@ -4,7 +4,7 @@ I'm Arsalan Sefidgar. A indie software developer and a college student.
 
 🌱 I’m currently learning:
 
-&ensp;&ensp;&ensp;![Django](https://img.shields.io/badge/-Django-007396?style=flat-square&logo=Java&logoColor=fff) ![Flutter](https://img.shields.io/badge/-Flutter-777BB4?style=flat-square&logo=Flutter&logoColor=fff)
+&ensp;&ensp;&ensp;![Django](https://img.shields.io/badge/-Django-007396?style=flat-square&logo=Django&logoColor=fff) ![Flutter](https://img.shields.io/badge/-Flutter-777BB4?style=flat-square&logo=Flutter&logoColor=fff)
 
 🎉 I’m interested in things related to:
 
@@ -16,4 +16,4 @@ I'm Arsalan Sefidgar. A indie software developer and a college student.
 
 📫 How to reach me: 
 
-&ensp;&ensp;&ensp;[![Telegram](https://img.shields.io/badge/-https://t.me/otstar-2CA5E0?style=flat-square&logo=Telegram&logoColor=fff)](https://t.me/arsalanse1) [![Email](https://img.shields.io/badge/-dr.sefidgar@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=fff)](mailto:dr.sefidgar@gmail.com)
+&ensp;&ensp;&ensp;[![Telegram](https://img.shields.io/badge/-https://t.me/arsalanse1-2CA5E0?style=flat-square&logo=Telegram&logoColor=fff)](https://t.me/arsalanse1) [![Email](https://img.shields.io/badge/-dr.sefidgar@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=fff)](mailto:dr.sefidgar@gmail.com)
