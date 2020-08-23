@@ -18,5 +18,3 @@ I'm Arsalan Sefidgar. A software developer and a college student.
 ⚡ I like to use these  tools:
 
 &ensp;&ensp;&ensp;![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-34495e?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff) ![JetBrains](https://img.shields.io/badge/-JetBrains-34495e?style=flat-square&logo=JetBrains&logoColor=fff) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-34495e?style=flat-square&logo=Android%20Studio&logoColor=fff) ![Docker](https://img.shields.io/badge/-Docker-34495e?style=flat-square&logo=Docker&logoColor=fff)
-
-![Visitor Count](https://profile-counter.glitch.me/arsalanses/count.svg)
