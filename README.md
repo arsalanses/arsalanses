@@ -18,3 +18,7 @@ I'm Arsalan Sefidgar. A software developer and a college student.
 ⚡ I like to use these  tools:
 
 &ensp;&ensp;&ensp;![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-34495e?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff) ![JetBrains](https://img.shields.io/badge/-JetBrains-34495e?style=flat-square&logo=JetBrains&logoColor=fff) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-34495e?style=flat-square&logo=Android%20Studio&logoColor=fff) ![Docker](https://img.shields.io/badge/-Docker-34495e?style=flat-square&logo=Docker&logoColor=fff)
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=arsalanses&count_private=true&hide=stars,issues&show_icons=true)<br>
+
+[![GitHub Harshita-Kanal](https://img.shields.io/github/followers/arsalanses?label=follow&style=social)](https://github.com/arsalanses)
