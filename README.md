@@ -9,7 +9,9 @@
 
 🌱 I’m currently learning:
 
-&ensp;&ensp;&ensp;![Django](https://img.shields.io/badge/-Django-34495e?style=flat-square&logo=Django&logoColor=fff) ![Flutter](https://img.shields.io/badge/-Flutter-34495e?style=flat-square&logo=Flutter&logoColor=fff)
+&ensp;&ensp;&ensp;
+![Django](https://img.shields.io/badge/-Django-34495e?style=flat-square&logo=Django&logoColor=fff)
+![Flutter](https://img.shields.io/badge/-Flutter-34495e?style=flat-square&logo=Flutter&logoColor=fff)
 
 🎉 I’m interested in things related to:
 
