@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Arsalan Sefidgar. A software developer and a college student.
+*__I'm Arsalan Sefidgar. A software developer and a college student.__*
 
 📫 How to reach me: 
 
