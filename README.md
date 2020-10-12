@@ -13,7 +13,6 @@
 ![Django](https://img.shields.io/badge/-Django-34495e?style=flat-square&logo=Django&logoColor=fff)
 ![Flutter](https://img.shields.io/badge/-Flutter-34495e?style=flat-square&logo=Flutter&logoColor=fff)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-34495e?style=flat-square&logo=FastAPI&logoColor=fff)
-![Germany](https://img.shields.io/badge/-Germany-34495e?style=flat-square&logo=Germany&logoColor=fff)
 
 🎉 I’m interested in things related to:<br>
 ![Python](https://img.shields.io/badge/-Python-34495e?style=flat-square&logo=Python&logoColor=fff)
