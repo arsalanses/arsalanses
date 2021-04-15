@@ -7,7 +7,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-f1c40f?style=flat-square&logo=Instagram&logoColor=fff)](https://Instagram.com/arsalanse)
 [![Telegram](https://img.shields.io/badge/-Telegram-f1c40f?style=flat-square&logo=Telegram&logoColor=fff)](https://t.me/arsalanse1)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-f1c40f?style=flat-square&logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/arsalanse/)
-[![Email](https://img.shields.io/badge/-Gmail-f1c40f?style=flat-square&logo=Gmail&logoColor=fff)](mailto:dr.sefidgar@gmail.com)
+[![Email](https://img.shields.io/badge/-Gmail-f1c40f?style=flat-square&logo=Gmail&logoColor=fff)](mailto:arsalan.sefidgar@gmail.com)
 
 🌱 I’m currently learning:<br>
 ![Django](https://img.shields.io/badge/-Django-34495e?style=flat-square&logo=Django&logoColor=fff)
