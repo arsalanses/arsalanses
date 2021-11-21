@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-*__I'm Arsalan Sefidgar. A software developer and a college student.__*
-<img src="https://github.com/prafulla-codes/sorting-hat/blob/master/pics/hufflepuff_badge.gif" width="100px">
+*__I'm Arsalan Sefidgar. A software developer and a college student.__*<br>
+<img src="https://github.com/prafulla-codes/sorting-hat/blob/master/pics/hufflepuff_badge.gif" width="100px"><br>
 📫 How to reach me:<br>
 [![Twitter](https://img.shields.io/badge/-Twitter-f1c40f?style=flat-square&logo=Twitter&logoColor=fff)](https://twitter.com/arsalanse)
 [![Instagram](https://img.shields.io/badge/-Instagram-f1c40f?style=flat-square&logo=Instagram&logoColor=fff)](https://Instagram.com/arsalanse)
