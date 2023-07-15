@@ -8,10 +8,11 @@
 
 🎉 I’m interested in things related to:<br>
 ![Docker](https://img.shields.io/badge/-Docker-34495e?style=flat-square&logo=Docker&logoColor=fff)
-![kubernetes](https://img.shields.io/badge/-kubernetes-34495e?style=flat-square&logo=kubernetes&logoColor=fff)
-![ansible](https://img.shields.io/badge/-ansible-34495e?style=flat-square&logo=ansible&logoColor=fff)
-![vagrant](https://img.shields.io/badge/-vagrant-34495e?style=flat-square&logo=vagrant&logoColor=fff)
-![terraform](https://img.shields.io/badge/-terraform-34495e?style=flat-square&logo=terraform&logoColor=fff)
+![kubernetes](https://img.shields.io/badge/-Kubernetes-34495e?style=flat-square&logo=kubernetes&logoColor=fff)
+![ansible](https://img.shields.io/badge/-Ansible-34495e?style=flat-square&logo=ansible&logoColor=fff)
+![vagrant](https://img.shields.io/badge/-Vagrant-34495e?style=flat-square&logo=vagrant&logoColor=fff)
+![gitlab](https://img.shields.io/badge/-Gitlab-34495e?style=flat-square&logo=gitlab&logoColor=fff)
+![terraform](https://img.shields.io/badge/-Terraform-34495e?style=flat-square&logo=terraform&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-34495e?style=flat-square&logo=Python&logoColor=fff)
 ![Open Source](https://img.shields.io/badge/-Open%20Source-34495e?style=flat-square&logo=Open%20Source%20Initiative&logoColor=fff)
 ![Linux](https://img.shields.io/badge/-Linux-34495e?style=flat-square&logo=Linux&logoColor=fff)
