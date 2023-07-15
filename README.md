@@ -17,6 +17,9 @@
 ![Open Source](https://img.shields.io/badge/-Open%20Source-34495e?style=flat-square&logo=Open%20Source%20Initiative&logoColor=fff)
 ![Linux](https://img.shields.io/badge/-Linux-34495e?style=flat-square&logo=Linux&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-34495e?style=flat-square&logo=Git&logoColor=fff)
+![gnubash](https://img.shields.io/badge/-bash-34495e?style=flat-square&logo=gnubash&logoColor=fff)
+
+Feel free to reach out to me if you have any questions or if you're interested in collaborating on a project.
 
 <!-- (![My github stats](https://github-readme-stats.vercel.app/api?username=arsalanses&count_private=true&hide=stars,issues&show_icons=true)<br> -->
 [![GitHub Harshita-Kanal](https://img.shields.io/github/followers/arsalanses?label=follow&style=social)](https://github.com/arsalanses)
